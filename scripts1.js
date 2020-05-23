@@ -1,3 +1,4 @@
+//Problem given by Morag
 
 //function to sum digits of an integer.
 function sumDigits(n) {
@@ -9,17 +10,18 @@ function sumDigits(n) {
     //console.log(string);
 
     //for loop to loop through the length of the string
-	for(i=0; i < string.length; i++){
+    for (i = 0; i < string.length; i++) {
         //parse each character and convert back to an integer
-        sum = sum + parseInt(string.substring(i, i+1));
+        sum = sum + parseInt(string.substring(i, i + 1));
+        //outputs each integer that is stored to 'sum' 
         console.log(sum);
-	}
+    }
 
     return sum;
-  
+
 }
 
-//function call and pass in interger value
+//function call and pass in integer value
 sumDigits(111);
 
 

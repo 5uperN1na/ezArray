@@ -1,4 +1,5 @@
 
+//Problem given by EZ
 
 //mergeArrays function
 function mergeArrays(arrayA, arrayB) {

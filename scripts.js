@@ -1,34 +1,5 @@
 
 
-//  1. go through each Character 
-//  2. convert the character back to Int and store each one in a new variable.
-//  3. find the sum of each int.
-
-// 123
-// "123"
-// "1" into 1
-// 2 do something
-// 3 do something
-
-
-
-//  for (i = 0; i < str.length; i++;) {
-
-
-//     str[i];
-
-//     digit = ch.ToInt(str[i])
-
-//  }
-
-
-//  var x = 0;
-// x = x + digit
-
-// console
-
-
-
 //mergeArrays function
 function mergeArrays(arrayA, arrayB) {
 
